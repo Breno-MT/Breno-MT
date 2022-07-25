@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou em formação para ser Desenvolvedor FullStack!
-- 🌱 Estudando atualmente Python, Flask, PostgreSQL!
+- 🌱 Estudando atualmente Python, Flask, SQLAlchemy, REST API, PostgreSQL!
 - 📫 Contato: hentgenp@gmail.com
 
 <div align="center">
