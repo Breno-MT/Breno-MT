@@ -17,7 +17,7 @@
   <img align="center" alt="Breno-VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" atl="Breno-PostGRE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Breno-gif" height="150" style="border-radius:50px;" src="https://github.com/Breno-MT/Breno-MT/blob/main/breno.png">
+  <img align="right" alt="Breno-gif" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/95316873?s=400&u=f94767bd041e0a489929786d62a79a90dd0a1729&v=4">
 </div>
   
   ##
