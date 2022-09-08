@@ -2,13 +2,13 @@
 
 
 - 🔭 Atualmente estou em formação para ser Desenvolvedor FullStack!
-- 🌱 Estudando atualmente VueJS, TypeScript, Python, Flask, SQLAlchemy, REST API, PostgreSQL!
+- 🌱 Estudando atualmente VueJS, TypeScript, Docker, Kubernetes, GCP, AWS
 - 📫 Contato: hentgenp@gmail.com
 
 <div align="center">
   <a href="https://github.com/breno-mt">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=breno-mt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-mt&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=breno-mt&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-mt&layout=compact&langs_count=8&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
