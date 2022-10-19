@@ -1,9 +1,11 @@
-### Olá, me chamo Breno! Seja Bem-vindo(a) ao meu perfil! 👋
+### Hi, I'm Breno! Welcome to my profile! 👋
 
 
-- 🔭 Atualmente estou em formação para ser Desenvolvedor FullStack!
-- 🌱 Estudando atualmente VueJS, TypeScript, Docker, Kubernetes, GCP, AWS
-- 📫 Contato: hentgenp@gmail.com
+- 🔭 I'm currently in training to become a Full Stack Developer!
+- 🌱 Presently studying Python, MongoDB, Cloud Services ( GCP and AWS ) and others technologies.
+- 💻 Technologies that I use to program VueJS, Python, JavaScript, TypeScript, both noSQL and mySQL (MongoDB, PostGreSQL), Docker.
+- 📫 Contact: hentgenp@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/breno-mt">
