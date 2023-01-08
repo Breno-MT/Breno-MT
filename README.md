@@ -2,8 +2,8 @@
 
 
 - 🔭 I'm currently in training to become a Full Stack Developer!
-- 🌱 Presently studying VueJS, Vuetify, Cloud Services ( GCP and AWS ) and others technologies.
-- 💻 Technologies that I use to program VueJS, Python, JavaScript, TypeScript, both noSQL and mySQL (MongoDB, PostGreSQL), Docker.
+- 🌱 Presently studying VueJS, Vuetify, Cloud Services ( GCP and AWS ), C and others technologies.
+- 💻 Technologies that I use to work VueJS, Python, JavaScript, GCP, both noSQL and mySQL (MongoDB, PostGreSQL).
 - 📫 Contact: hentgenp@gmail.com
 
 
