@@ -1,9 +1,9 @@
 ### Hi, I'm Breno! Welcome to my profile! 👋
 
 
-- 🔭 I'm currently in training to become a Full Stack Developer!
+- 🔭 I'm Software Developer! Always eager to learn something new, challeging myself to become better every day.
 - 🌱 Presently studying VueJS, Vuetify, Cloud Services ( GCP and AWS ), C and others technologies.
-- 💻 Technologies that I use to work VueJS, Python, JavaScript, GCP, both noSQL and mySQL (MongoDB, PostGreSQL).
+- 💻 Technologies that I use to work VueJS, Vuetify, Python, JavaScript, Cloud Services (AWS and GCP), Docker, Flask, Pytest and TDD.
 - 📫 Contact: hentgenp@gmail.com
 
 
