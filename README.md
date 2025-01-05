@@ -4,7 +4,7 @@
 - 🔭 I'm Software Developer! Always eager to learn something new, challenging myself to become better every day.
 - 🌱 Presently studying VueJS, Vuetify, Cloud Services ( GCP and AWS ), C and others technologies.
 - 💻 Technologies that I use to work VueJS, Vuetify, Python, JavaScript, Cloud Services (AWS and GCP), Docker, Flask, Pytest and TDD.
-- 📫 Contact: hentgenp@gmail.com
+- 📫 Contact: brenomtdev@gmail.com
 
 
 <div align="center">
