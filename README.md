@@ -2,8 +2,8 @@
 
 
 - 🔭 I'm Software Developer! Always eager to learn something new, challenging myself to become better every day.
-- 🌱 Presently studying VueJS, Vuetify, Cloud Services ( GCP and AWS ), C and others technologies.
-- 💻 Technologies that I use to work VueJS, Vuetify, Python, JavaScript, Cloud Services (AWS and GCP), Docker, Flask, Pytest and TDD.
+- 🌱 Presently studying Django, Flet (Python), Cloud Services ( GCP and AWS ), C and others technologies.
+- 💻 Technologies that I use to work VueJS, Vuetify, Python, JavaScript, Cloud Services (AWS and GCP), Docker, Flask, Django, Flet, FastAPI, Pytest and TDD.
 - 📫 Contact: brenomtdev@gmail.com
 
 
