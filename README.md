@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/breno-mt">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=breno-mt&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-mt&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" width="50%" src="https://github-stats-extended.vercel.app/api?username=breno-mt&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+  <img height="180em" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=breno-mt&layout=compact&langs_count=8&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
